@@ -1,3 +1,5 @@
+Hexo4.2图片显示问题，修复hexo-asset-image
+
 # hexo-asset-image
 
 
